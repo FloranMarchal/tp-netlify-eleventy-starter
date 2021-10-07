@@ -8,6 +8,11 @@ module.exports = {
     extend: {
       colors: {
         'regal-blue': '#243c5a',
+        violet: {
+          100: '#EDE9FE',
+          400: '#A78BFA',
+          700: '#6D28D9',
+        },
       },
       fontFamily: {
         titre: ['Oswald'],
